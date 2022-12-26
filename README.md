@@ -4,7 +4,7 @@
 
 ## 유트부 영상링크
 
-- [유튜브 비디오 - 자바스크립트 createDOM 구현해보기](https://youtube.com)
+- [유튜브 비디오 - 자바스크립트 createDOM 구현해보기](https://youtu.be/nj60nfvS5nA)
 
 ## 소스코드 링크
 
